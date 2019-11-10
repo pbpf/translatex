@@ -20,6 +20,7 @@ This extension contributes the following settings:
 
 
 ## Release Notes
+1.1.0 better display
 1.0.2 using downcase
 
 -----------------------------------------------------------------------------------------------------------
@@ -34,7 +35,6 @@ This extension contributes the following settings:
 
 ### For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [Visual Studio Code's extension market](https://marketplace.visualstudio.com/items?itemName=connor.translatex)
 
 **Enjoy!**
