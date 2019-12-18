@@ -44,7 +44,7 @@ Please consider donating this project to provide impetus for its continuous impr
 
 <img src="https://raw.githubusercontent.com/pbpf/translatex/master/paycode.jpg"  height="255" width="216">
 <img src="https://raw.githubusercontent.com/pbpf/translatex/master/paycode2.png"  height="255" width="216">
-![avatar](./paycode2.png){:height="100" width="100"}
+
 ## For more information
 * [Visual Studio Code's extension market](https://marketplace.visualstudio.com/items?itemName=connor.translatex)
 
